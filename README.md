@@ -8,7 +8,7 @@
 https://readme-typing-svg.demolab.com/demo/?font=Comic+sans+ms&duration=3000&color=4B34C6&background=81FF9900&center=true&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+scalable+interfaces
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+sans+ms&duration=3000&pause=1000&color=4B34C6&background=81FF9900&center=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+scalable+interfaces)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+sans+ms&duration=3000&pause=1000&color=4B34C6&background=81FF9900&center=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+scalable+interfaces">
 </p>
 
 ---
