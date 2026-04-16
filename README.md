@@ -3,7 +3,7 @@
 # Hi there, I'm Temmy 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+sans+ms&duration=3000&pause=1000&color=4B34C6&background=81FF9900&center=false&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+scalable+interfaces">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+sans+ms&duration=3000&pause=1000&color=4B34C6&background=81FF9900&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean+and+scalable+interfaces">
 </p>
 
 ---
