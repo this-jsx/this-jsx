@@ -37,9 +37,9 @@
 ## 🌐 Connect with me
 
 <p>
-  <a href="https://t.me/paralaxity">
+  <!--<a href="https://t.me/paralaxity">
     <img src="https://img.shields.io/badge/Telegram-@paralaxity-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  </a>-->
   <a href="mailto:this.jsx@gmail.com">
     <img src="https://img.shields.io/badge/Email-this.jsx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
