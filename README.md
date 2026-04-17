@@ -11,7 +11,7 @@
 * 🚀 Frontend Developer focused on modern web apps
 * ⚛️ Working with React, Next.js & TypeScript
 * 📚 Currently leveling up in architecture & advanced frontend
-* 🎯 Goal: grow into Middle+ / Senior engineer
+<!--* 🎯 Goal: grow into Middle+ / Senior engineer-->
 * 🤝 Looking to work in a team and build complex, scalable systems
 
 ---
